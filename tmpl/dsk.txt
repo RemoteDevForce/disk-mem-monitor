@@ -1,0 +1,5 @@
+Hi there,
+it looks like the disk space on :STORAGE_NAME: reached :USAGE:%!
+
+Sincerely,
+The Remote Dev Force Bot

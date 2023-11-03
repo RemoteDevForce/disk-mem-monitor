@@ -1,0 +1,5 @@
+Hi there,
+it looks like the available server memory dropped to :FREE_MEMORY:MB!
+
+Sincerely,
+The Remote Dev Force Bot
